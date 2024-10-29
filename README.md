@@ -1,8 +1,6 @@
 ## Sobre
 
-Código desenvolvido na cadeira de Infraestrutura de Software do 3º período do curso de ciência da computação da CESAR School.
-
-O objetivo da atividade era passar nos testes, cumprir com os requisitos descritos no documento CPUScheduling.pdf enviado pelo professor e enviar até o deadline.
+Código desenvolvido na cadeira de Infraestrutura de Software do 3º período do curso de ciência da computação da CESAR School, sobre memórias fisicas e virtuais de um SO.
 
 # Informações fornecidas
 
